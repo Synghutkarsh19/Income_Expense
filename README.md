@@ -32,7 +32,7 @@ Income Expense Tracker is a simple web application to help users track their inc
    ```bash
    cd backend
    ```
-   1. Initialize the project backend and set entry point as "app.js":
+   1. Initialize the project backend and set entry point as `app.js`:
 
       ```bash
       npm init
@@ -42,7 +42,7 @@ Income Expense Tracker is a simple web application to help users track their inc
       ```bash
       npm install express mongoose cors nodemon dotenv
       ```
-   3. Create database using MongoDB Atlas and put the connection url in the ".env" file.
+   3. Create database using MongoDB Atlas and put the connection url in the `.env` file.
    4. In package.json -> scripts -> "start": "nodemon app.js"
    5. Run backend:
 
