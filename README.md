@@ -14,7 +14,6 @@ Income Expense Tracker is a simple web application to help users track their inc
 - **Expense Tracking:** Record your daily expenses and income effortlessly.
 - **Categories:** Categorize your transactions for better financial analysis.
 - **Insights:** Visualize your spending patterns with interactive charts and graphs.
-- **User Authentication:** Secure your data with user authentication features.
 - **Responsive Design:** Access the application from various devices with ease.
 
 ## Installation
