@@ -22,8 +22,24 @@ Income Expense Tracker is a simple web application to help users track their inc
 
    ```bash
    git clone https://github.com/Synghutkarsh19/Income_Expense.git
+   ```
 2. Navigate to the project directory:
 
    ```bash
    cd Income_Expense
+   ```
+3. Navigate to the backend:
 
+   ```bash
+   cd backend
+   ```
+   1. Initialize the project backend and set entry point as "app.js":
+
+      ```bash
+      npm init
+      ```
+   2. Install required packages:
+      
+      ```bash
+      npm install express mongoose cors nodemon
+      ```
