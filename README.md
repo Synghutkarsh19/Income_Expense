@@ -22,3 +22,8 @@ Income Expense Tracker is a simple web application to help users track their inc
 
    ```bash
    git clone https://github.com/Synghutkarsh19/Income_Expense.git
+2. Navigate to the project directory:
+
+   ```bash
+   cd Income_Expense
+
