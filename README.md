@@ -43,7 +43,7 @@ Income Expense Tracker is a simple web application to help users track their inc
       npm install express mongoose cors nodemon dotenv
       ```
    3. Create database using MongoDB Atlas and put the connection url in the ".env" file.
-   4. In packahe.json -> scripts -> "start": "nodemon app.js"
+   4. In package.json -> scripts -> "start": "nodemon app.js"
    5. Run backend:
 
       ```bash
