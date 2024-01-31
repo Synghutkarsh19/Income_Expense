@@ -3,7 +3,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/Synghutkarsh19/Income_Expense?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/Synghutkarsh19/Income_Expense?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/Synghutkarsh19/Income_Expense?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/Synghutkarsh19/Income_Expense?style=flat-square)
 
 ## Overview
 
